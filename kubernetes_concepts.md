@@ -1,5 +1,3 @@
-## Kubernetes 2021 Knowledge Transfer
-
 ## Kubernetes
 -> K8s is an Open Source, portable, extensible platform for managing containerized workloads and services that facilitate both declarative configurations and automations
 
