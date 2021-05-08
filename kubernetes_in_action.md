@@ -2,7 +2,7 @@
 
 ## Notes
 
-Presentation version of this content is available at https://slashpai.github.io/presentations/kubernetes_in_action/#/ 
+Presentation version of this content is available at https://slashpai.github.io/presentations/kubernetes_in_action/#/
 
 ---
 
@@ -271,7 +271,7 @@ spec:
 ```
 ---
 
-## Interacting with running Pods 
+## Interacting with running Pods
 
 | Command | Description | Example|
 | --- | ----------- |---------- |
@@ -803,9 +803,4 @@ https://github.com/dockersamples/example-voting-app#run-the-app-in-kubernetes
 
 ---
 
-Reach out to us for any queries
-DL_CWX_ETS_BLR_SABER@cerner.com 
-or
-Post your questions @ CWx Assist  Education channel
-
----
+Credit to - [Jayapriya Pai](https://www.linkedin.com/in/jayapriyapai/)
